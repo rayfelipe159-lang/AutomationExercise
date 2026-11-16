@@ -1,0 +1,13 @@
+{
+  "nome": "Rayan Ramos",
+  "senha": "Senha@123",
+  "primeiroNome": "Rayan",
+  "ultimoNome": "Ramos",
+  "empresa": "Teste LTDA",
+  "endereco": "Rua das Flores, 123",
+  "pais": "Canada",
+  "estado": "Ontario",
+  "cidade": "Toronto",
+  "cep": "55555",
+  "telefone": "11999999999"
+}
